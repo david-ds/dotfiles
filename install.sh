@@ -11,3 +11,5 @@ git clone git@github.com:david-ds/dotfiles.git ~/.dotfiles
 cp ~/.dotfiles/.zshrc ~/.zshrc --backup=simple --suffix=.backup
 
 source ~/.zshrc
+
+echo "Installation completed!"
